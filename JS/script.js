@@ -27,7 +27,7 @@ function startQuiz() {
   timerEl.textContent = time;
 
   getQuestion();
-} console.log(startQuiz);
+} 
 
 
 function getQuestion() {
@@ -153,10 +153,10 @@ function checkForEnter(event) {
   }
 }
 
-// submit initials
+// // submit initials
 submitBtn.onclick = saveHighscore;
 
-// start quiz
+// // start quiz
 startBtn.onclick = startQuiz;
 
 initialsEl.onkeyup = checkForEnter;
