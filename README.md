@@ -13,7 +13,7 @@
 N/A
 
 ## Usage
-
+- Try it out:
 https://joseobm92.github.io/Web-APIs-Code-Quiz/
 
 
