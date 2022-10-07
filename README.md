@@ -16,7 +16,10 @@ N/A
 - Try it out:
 https://joseobm92.github.io/Web-APIs-Code-Quiz/
 
-
+![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.13.52%20PM.png)
+![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.14.08%20PM.png)
+![alt text](Assets//Screen%20Shot%202022-10-06%20at%209.14.59%20PM.png)
+![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.15.12%20PM.png)
 
 ## Credits
 
